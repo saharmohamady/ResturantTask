@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_ac9f574ef2d6a224f6d2fc76c9aea25f7183ef5f.jar" />
+    </item>
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_784a99b2a983048e77ca650e930d961039a5bd8b.jar" />
+    </item>
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_01b997f455b9460ed3974665b2cb8c91fbe2d327.jar" />
+    </item>
+    <item
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_b51cd4f0c6893152fb3fe61702601394c8c6a993.jar" />
+    </item>
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_0ff79e134dfec0f8c6bde66a94e8f7638709a214.jar" />
+    </item>
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_4aeeeae2993a37da61a8523aa3c72a15dce25285.jar" />
+    </item>
+    <item
+        jar="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="E:\sahar work\CoordinatorBehaviorExample-master\ResturantTask\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6348929a84ebfcd31a0f289ee84b67f32b0af8e5.jar" />
+    </item>
+
+</items>
